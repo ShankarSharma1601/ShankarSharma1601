@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)]
+![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Shankar Sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif">
